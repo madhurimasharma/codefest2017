@@ -1,0 +1,93 @@
+[
+  {
+    "//note 1": "This file is just a temporary cache. Any changes you make here will be lost as soon as model-dropdown.jsx loads an update list from Watson.",
+    "//note 2": "model-dropdown.jsx only loads the *public* models. Any customizations you create will not be included in that list.",
+    
+    "name": "fr-FR_BroadbandModel",
+    "language": "fr-FR",
+    "url": "https://stream.watsonplatform.net/speech-to-text/api/v1/models/fr-FR_BroadbandModel",
+    "rate": 16000,
+    "supported_features": {
+      "custom_language_model": false,
+      "speaker_labels": false
+    },
+    "description": "French broadband model."
+  },
+  {
+    "name": "en-US_NarrowbandModel",
+    "language": "en-US",
+    "url": "https://stream.watsonplatform.net/speech-to-text/api/v1/models/en-US_NarrowbandModel",
+    "rate": 8000,
+    "supported_features": {
+      "custom_language_model": true,
+      "speaker_labels": true
+    },
+    "description": "US English narrowband model."
+  },
+  {
+    "name": "en-UK_BroadbandModel",
+    "language": "en-UK",
+    "url": "https://stream.watsonplatform.net/speech-to-text/api/v1/models/en-UK_BroadbandModel",
+    "rate": 16000,
+    "supported_features": {
+      "custom_language_model": false,
+      "speaker_labels": false
+    },
+    "description": "UK English broadband model."
+  },
+  {
+    "name": "en-US_BroadbandModel",
+    "language": "en-US",
+    "url": "https://stream.watsonplatform.net/speech-to-text/api/v1/models/en-US_BroadbandModel",
+    "rate": 16000,
+    "supported_features": {
+      "custom_language_model": true,
+      "speaker_labels": false
+    },
+    "description": "US English broadband model."
+  },
+  {
+    "name": "en-UK_NarrowbandModel",
+    "language": "en-UK",
+    "url": "https://stream.watsonplatform.net/speech-to-text/api/v1/models/en-UK_NarrowbandModel",
+    "rate": 8000,
+    "supported_features": {
+      "custom_language_model": false,
+      "speaker_labels": false
+    },
+    "description": "UK English narrowband model."
+  },
+  {
+    "name": "ben-INDIA_BroadbandModel",
+    "language": "en-UK",
+    "url": "https://stream.watsonplatform.net/speech-to-text/api/v1/models/ben-INDIA_BroadbandModel",
+    "rate": 8000,
+    "supported_features": {
+      "custom_language_model": false,
+      "speaker_labels": false
+    },
+    "description": "India Bengali narrowband model."
+  },
+  {
+    "name": "hin-INDIA_BroadbandModel",
+    "language": "en-UK",
+    "url": "https://stream.watsonplatform.net/speech-to-text/api/v1/models/hin-INDIA_BroadbandModel",
+    "rate": 8000,
+    "supported_features": {
+      "custom_language_model": false,
+      "speaker_labels": false
+    },
+    "description": "India Hindi narrowband model."
+  },
+  {
+    "name": "tam-INDIA_BroadbandModel",
+    "language": "en-UK",
+    "url": "https://stream.watsonplatform.net/speech-to-text/api/v1/models/tam-INDIA_BroadbandModel",
+    "rate": 8000,
+    "supported_features": {
+      "custom_language_model": false,
+      "speaker_labels": false
+    },
+    "description": "Tamil Hindi narrowband model."
+  }
+]
